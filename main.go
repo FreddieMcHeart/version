@@ -1,7 +1,7 @@
 package main
 
 import (
-	"version/cmd"
+	"verme/cmd"
 )
 
 func main() {

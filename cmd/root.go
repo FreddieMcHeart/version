@@ -7,9 +7,9 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use: "version",
+	Use: "verme",
 	//Short: "Version is a very easy to use CLI tool generate versions",
-	Long: `Version is a very easy to use CLI tool generate versions`,
+	Long: `verme is a very easy to use CLI tool, that generates versions`,
 }
 
 func Execute() {

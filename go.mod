@@ -1,6 +1,6 @@
-module version
+module verme
 
-replace version/cmd => ../cmd
+replace verme/cmd => ../cmd
 
 go 1.18
 
